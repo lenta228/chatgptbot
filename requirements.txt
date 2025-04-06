@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+g4f==0.1.9.3
+asyncio==3.4.3
+requests==2.31.0
+websockets==11.0.3 
